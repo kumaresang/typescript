@@ -1,0 +1,12 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World - Learning TypeScripts from scrach",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "tsc main.ts && node"
+  },
+  "author": "Kumaresan Govindan",
+  "license": "ISC"
+}
